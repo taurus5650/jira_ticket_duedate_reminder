@@ -1,4 +1,4 @@
-# jira_ticket_duedate_reminder
+# jira_ticket_duedate_webhook_reminder
 
 1. Query ticket due date through by JQL
 2. If meet JQL condition, will call webhook api to reminder user
